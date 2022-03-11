@@ -1,0 +1,74 @@
+coin_code,custody_provider_name,name,code
+btc,bitgo,Bitcoin,btc
+eth,bitgo,Ethereum,eth
+ltc,bitgo,Litecoin,ltc
+xrp,bitgo,XRP,xrp
+algo,bitgo,Algorand,algo
+comp,bitgo,Compound,comp
+shib,bitgo,Shiba Inu,shib
+avax,bitgo,Avalanche,avaxc
+hbar,bitgo,Hedera,hbar
+trx,bitgo,TRON,trx
+xlm,bitgo,Stellar,xlm
+bch,bitgo,Bitcoin Cash,bch
+eos,bitgo,EOS,eos
+usdt,bitgo,Tether,usdt
+link,bitgo,Chainlink,link
+uni,bitgo,Uniswap,uni
+usdc,bitgo,USD Coin,usdc
+matic,bitgo,Polygon,matic
+axs,bitgo,Axie Infinity,axs
+sushi,bitgo,SushiSwap,sushi
+yfi,bitgo,yearn.finance,yfi
+dai,bitgo,Dai,dai
+enj,bitgo,Enjin Coin,enj
+sand,bitgo,The Sandbox,sand
+mkr,bitgo,Maker,mkr
+crv,bitgo,Curve DAO Token,crv
+ftm,bitgo,Fantom,ftm
+badger,bitgo,Badger DAO,badger
+1inch,bitgo,1inch Network,1inch
+perp,bitgo,Perpetual Protocol,perp
+cream,bitgo,Cream Finance,cream
+sxp,bitgo,SXP,sxp
+bat,bitgo,Basic Attention Token,bat
+chz,bitgo,Chiliz,chz
+zrx,bitgo,0x,zrx
+snx,bitgo,Synthetix,snx
+lrc,bitgo,Loopring,lrc
+aave,bitgo,Aave,aave
+bnt,bitgo,Bancor,bnt
+grt,bitgo,The Graph,grt
+busd,bitgo,Binance USD,busd
+tusd,bitgo,TrueUSD,tusd
+cro,bitgo,Cronos,cro
+ftt,bitgo,FTX Token,ftt
+leo,bitgo,UNUS SED LEO,leo
+ht,bitgo,Huobi Token,ht
+cel,bitgo,Celsius,cel
+audio,bitgo,Audius,audio
+band,bitgo,Band Protocol,band
+dodo,bitgo,DODO,dodo
+knc,bitgo,Kyber Network Crystal v2,knc
+bal,bitgo,Balancer,bal
+mith,bitgo,Mithril,mith
+mtl,bitgo,Metal,mtl
+omg,bitgo,OMG Network,omg
+storj,bitgo,Storj,storj
+alpha,bitgo,Alpha Finance Lab,alpha
+dent,bitgo,Dent,dent
+hxro,bitgo,Hxro,hxro
+loom,bitgo,Loom Network,loom
+orbs,bitgo,Orbs,orbs
+paxg,bitgo,PAX Gold,paxg
+slp,bitgo,Smooth Love Potion,slp
+wbtc,bitgo,Wrapped Bitcoin,wbtc
+yfii,bitgo,DFI.Money,yfii
+xtz,bitgo,Tezos,xtz
+egld,bitgo,Elrond,egld
+oxy,bitgo,Oxygen,oxy
+pundix,bitgo,Pundi X (New),pundix
+reef,bitgo,Reef,reef
+skl,bitgo,SKALE Network,skale
+mana,bitgo,Decentraland,mana
+usdp,bitgo,Pax Dollar,pax

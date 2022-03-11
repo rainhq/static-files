@@ -1,0 +1,4 @@
+name,data_type
+ERC-20,bool
+MaxPrecision,int4
+Order,int4
