@@ -1,3 +1,4 @@
 name,data_type
 PrioritySupport,bool
 Tag,json
+Memo,string
