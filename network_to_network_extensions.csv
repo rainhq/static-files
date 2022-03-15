@@ -4,3 +4,5 @@ XRP,Tag,"{""name"":""Tag"",""type"":""Numeric Only""}"
 XLM,Tag,"{""name"":""Memo"",""type"":""Alpha-numeric""}"
 EOS,Tag,"{""name"":""Memo"",""type"":""Numeric Only""}"
 HBAR,Tag,"{""name"":""Memo"",""type"":""Numeric Only""}"
+EOS,Memo,numeric
+XLM,Memo,numeric

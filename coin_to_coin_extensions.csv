@@ -59,7 +59,7 @@ pundix,ERC-20,true
 reef,ERC-20,true
 skl,ERC-20,true
 mana,ERC-20,true
-usdp,ERC-20,true
+pax,ERC-20,true
 eth,MaxPrecision,18
 comp,MaxPrecision,18
 shib,MaxPrecision,18
@@ -111,7 +111,7 @@ egld,MaxPrecision,18
 pundix,MaxPrecision,18
 reef,MaxPrecision,18
 mana,MaxPrecision,18
-usdp,MaxPrecision,18
+pax,MaxPrecision,18
 btc,Order,1
 eth,Order,2
 usdt,Order,3
@@ -150,7 +150,7 @@ enj,Order,35
 chz,Order,36
 lrc,Order,37
 bat,Order,38
-usdp,Order,39
+pax,Order,39
 crv,Order,40
 yfi,Order,41
 cel,Order,42
