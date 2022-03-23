@@ -1,2 +1,2 @@
-name,minimum_balance,minimum_balance_coin_code,url
-ftx,-40000000,USD,https://otc.ftx.com
+name,minimum_balance,minimum_balance_coin_code
+ftx,-40000000.00000000000000000000000000000000,USD
