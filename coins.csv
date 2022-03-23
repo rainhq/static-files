@@ -2,6 +2,7 @@ name,code,precision,fiat_precision,block_explorer,minimum_confirmations,minimum_
 Bitcoin,btc,8,2,https://live.blockcypher.com/btc/tx/,3,0.0005,-1000000
 Ethereum,eth,8,2,https://etherscan.io/tx/,35,0.005,-1000000
 Litecoin,ltc,8,2,https://live.blockcypher.com/ltc/tx/,6,0.1,-1000000
+Tether,usdt,6,3,https://etherscan.io/tx/,35,0.01,-1000000
 XRP,xrp,6,4,https://xrpcharts.ripple.com/#/transactions/,1,20,-1000000
 Algorand,algo,6,4,https://algoexplorer.io/tx/,1,0.01,-1000000
 Compound,comp,8,2,https://etherscan.io/tx/,35,0.01,-1000000
@@ -12,7 +13,6 @@ TRON,trx,6,5,https://tronscan.org/#/transaction/,20,0.01,-1000000
 Stellar,xlm,7,4,https://stellarchain.io/tx/,1,0.01,-1000000
 Bitcoin Cash,bch,8,2,https://www.blockchain.com/bch/tx/,3,0.01,-1000000
 EOS,eos,4,2,https://bloks.io/transaction/,1,0.01,-1000000
-Tether,usdt,6,3,https://etherscan.io/tx/,35,0.01,-1000000
 Chainlink,link,8,2,https://etherscan.io/tx/,35,0.01,-1000000
 Uniswap,uni,8,2,https://etherscan.io/tx/,35,0.01,-1000000
 USD Coin,usdc,6,3,https://etherscan.io/tx/,35,0.01,-1000000

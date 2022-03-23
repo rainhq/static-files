@@ -1,8 +1,8 @@
 coin_code,custody_provider_name,name,code
+xrp,bitgo,XRP,xrp
 btc,bitgo,Bitcoin,btc
 eth,bitgo,Ethereum,eth
 ltc,bitgo,Litecoin,ltc
-xrp,bitgo,XRP,xrp
 algo,bitgo,Algorand,algo
 comp,bitgo,Compound,comp
 shib,bitgo,Shiba Inu,shib
@@ -17,7 +17,6 @@ link,bitgo,Chainlink,link
 uni,bitgo,Uniswap,uni
 usdc,bitgo,USD Coin,usdc
 matic,bitgo,Polygon,matic
-axs,bitgo,Axie Infinity,axs
 sushi,bitgo,SushiSwap,sushi
 yfi,bitgo,yearn.finance,yfi
 dai,bitgo,Dai,dai
@@ -35,7 +34,6 @@ bat,bitgo,Basic Attention Token,bat
 chz,bitgo,Chiliz,chz
 zrx,bitgo,0x,zrx
 snx,bitgo,Synthetix,snx
-lrc,bitgo,Loopring,lrc
 aave,bitgo,Aave,aave
 bnt,bitgo,Bancor,bnt
 grt,bitgo,The Graph,grt
@@ -49,7 +47,6 @@ cel,bitgo,Celsius,cel
 audio,bitgo,Audius,audio
 band,bitgo,Band Protocol,band
 dodo,bitgo,DODO,dodo
-knc,bitgo,Kyber Network Crystal v2,knc
 bal,bitgo,Balancer,bal
 mith,bitgo,Mithril,mith
 mtl,bitgo,Metal,mtl
@@ -58,7 +55,6 @@ storj,bitgo,Storj,storj
 alpha,bitgo,Alpha Finance Lab,alpha
 dent,bitgo,Dent,dent
 hxro,bitgo,Hxro,hxro
-loom,bitgo,Loom Network,loom
 orbs,bitgo,Orbs,orbs
 paxg,bitgo,PAX Gold,paxg
 slp,bitgo,Smooth Love Potion,slp
@@ -72,3 +68,7 @@ reef,bitgo,Reef,reef
 skl,bitgo,SKALE Network,skale
 mana,bitgo,Decentraland,mana
 pax,bitgo,Pax Dollar,pax
+loom,bitgo,Loom Network,loom1
+axs,bitgo,Axie Infinity,axsv2
+lrc,bitgo,Loopring,lrcv2
+knc,bitgo,Kyber Network Crystal v2,knc2

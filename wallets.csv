@@ -125,6 +125,13 @@ id,wallet_type,custody_provider_name
 124,receive,bitgo
 125,send,bitgo
 126,warm,bitgo
+139,receive,bitgo
+140,send,bitgo
+141,warm,bitgo
+142,receive,bitgo
+143,send,bitgo
+144,warm,bitgo
+145,receive,bitgo
 127,receive,bitgo
 128,send,bitgo
 129,warm,bitgo
@@ -137,15 +144,6 @@ id,wallet_type,custody_provider_name
 136,receive,bitgo
 137,send,bitgo
 138,warm,bitgo
-139,receive,bitgo
-140,send,bitgo
-141,warm,bitgo
-142,receive,bitgo
-143,send,bitgo
-144,warm,bitgo
-145,receive,bitgo
-146,send,bitgo
-147,warm,bitgo
 148,receive,bitgo
 149,send,bitgo
 150,warm,bitgo
@@ -218,3 +216,5 @@ id,wallet_type,custody_provider_name
 217,receive,bitgo
 218,send,bitgo
 219,warm,bitgo
+146,send,bitgo
+147,warm,bitgo

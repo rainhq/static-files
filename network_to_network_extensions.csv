@@ -1,8 +1,6 @@
 network_name,extension_name,extension_value
 BTC,PrioritySupport,true
 XRP,Tag,"{""name"":""Tag"",""type"":""Numeric Only""}"
-XLM,Tag,"{""name"":""Memo"",""type"":""Alpha-numeric""}"
-EOS,Tag,"{""name"":""Memo"",""type"":""Numeric Only""}"
-HBAR,Tag,"{""name"":""Memo"",""type"":""Numeric Only""}"
-EOS,Memo,numeric
+HBAR,Memo,numeric
 XLM,Memo,numeric
+EOS,Memo,numeric
