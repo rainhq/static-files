@@ -1,74 +1,82 @@
-name,code,icon_url,precision,fiat_precision,block_explorer,minimum_confirmations,minimum_amount,exchange_warning_minimum
-Bitcoin,btc,https://static.rain.bh/icons/currencies/BTC.png,8,2,https://live.blockcypher.com/btc/tx/,3,0.0005,-1000000
-Ethereum,eth,https://static.rain.bh/icons/currencies/ETH.png,8,2,https://etherscan.io/tx/,35,0.005,-1000000
-Litecoin,ltc,https://static.rain.bh/icons/currencies/LTC.png,8,2,https://live.blockcypher.com/ltc/tx/,6,0.1,-1000000
-XRP,xrp,https://static.rain.bh/icons/currencies/XRP.png,6,4,https://xrpcharts.ripple.com/#/transactions/,1,20,-1000000
-Algorand,algo,https://static.rain.bh/icons/currencies/ALGO.png,6,4,https://algoexplorer.io/tx/,1,0.01,-1000000
-Compound,comp,https://static.rain.bh/icons/currencies/COMP.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Shiba Inu,shib,https://static.rain.bh/icons/currencies/SHIB.png,8,8,https://etherscan.io/tx/,35,0.01,-1000000
-Avalanche,avax,https://static.rain.bh/icons/currencies/AVAX.png,6,2,https://snowtrace.io/tx/,35,0.01,-1000000
-Hedera,hbar,https://static.rain.bh/icons/currencies/HBAR.png,8,4,https://dragonglass.me/transactions/,60,0.01,-1000000
-TRON,trx,https://static.rain.bh/icons/currencies/TRX.png,6,5,https://tronscan.org/#/transaction/,20,0.01,-1000000
-Stellar,xlm,https://static.rain.bh/icons/currencies/XLM.png,7,4,https://stellarchain.io/tx/,1,0.01,-1000000
-Bitcoin Cash,bch,https://static.rain.bh/icons/currencies/BCH.png,8,2,https://www.blockchain.com/bch/tx/,3,0.01,-1000000
-EOS,eos,https://static.rain.bh/icons/currencies/EOS.png,4,2,https://bloks.io/transaction/,1,0.01,-1000000
-Tether,usdt,https://static.rain.bh/icons/currencies/USDT.png,6,3,https://etherscan.io/tx/,35,0.01,-1000000
-Chainlink,link,https://static.rain.bh/icons/currencies/LINK.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Uniswap,uni,https://static.rain.bh/icons/currencies/UNI.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-USD Coin,usdc,https://static.rain.bh/icons/currencies/USDC.png,6,3,https://etherscan.io/tx/,35,0.01,-1000000
-Polygon,matic,https://static.rain.bh/icons/currencies/MATIC.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Axie Infinity,axs,https://static.rain.bh/icons/currencies/AXS.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-SushiSwap,sushi,https://static.rain.bh/icons/currencies/SUSHI.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-yearn.finance,yfi,https://static.rain.bh/icons/currencies/YFI.png,8,2,https://etherscan.io/tx/,35,0.001,-1000000
-Dai,dai,https://static.rain.bh/icons/currencies/DAI.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Enjin Coin,enj,https://static.rain.bh/icons/currencies/ENJ.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-The Sandbox,sand,https://static.rain.bh/icons/currencies/SAND.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Maker,mkr,https://static.rain.bh/icons/currencies/MKR.png,8,2,https://etherscan.io/tx/,35,0.001,-1000000
-Curve DAO Token,crv,https://static.rain.bh/icons/currencies/CRV.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Fantom,ftm,https://static.rain.bh/icons/currencies/FTM.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Badger DAO,badger,https://static.rain.bh/icons/currencies/BADGER.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-1inch Network,1inch,https://static.rain.bh/icons/currencies/1INCH.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Perpetual Protocol,perp,https://static.rain.bh/icons/currencies/PERP.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Cream Finance,cream,https://static.rain.bh/icons/currencies/CREAM.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-SXP,sxp,https://static.rain.bh/icons/currencies/SXP.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Basic Attention Token,bat,https://static.rain.bh/icons/currencies/BAT.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-Chiliz,chz,https://static.rain.bh/icons/currencies/CHZ.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-0x,zrx,https://static.rain.bh/icons/currencies/ZRX.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-Synthetix,snx,https://static.rain.bh/icons/currencies/SNX.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Loopring,lrc,https://static.rain.bh/icons/currencies/LRC.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Aave,aave,https://static.rain.bh/icons/currencies/AAVE.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Bancor,bnt,https://static.rain.bh/icons/currencies/BNT.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-The Graph,grt,https://static.rain.bh/icons/currencies/GRT.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-Binance USD,busd,https://static.rain.bh/icons/currencies/BUSD.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-TrueUSD,tusd,https://static.rain.bh/icons/currencies/TUSD.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Crypto.com Coin,cro,https://static.rain.bh/icons/currencies/CRO.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-FTX Token,ftt,https://static.rain.bh/icons/currencies/FTT.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-UNUS SED LEO,leo,https://static.rain.bh/icons/currencies/LEO.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Huobi Token,ht,https://static.rain.bh/icons/currencies/HT.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Celsius,cel,https://static.rain.bh/icons/currencies/CEL.png,4,2,https://etherscan.io/tx/,35,0.01,-1000000
-Audius,audio,https://static.rain.bh/icons/currencies/AUDIO.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-Band Protocol,band,https://static.rain.bh/icons/currencies/BAND.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-DODO,dodo,https://static.rain.bh/icons/currencies/DODO.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-Kyber Network Crystal v2,knc,https://static.rain.bh/icons/currencies/KNC.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Balancer,bal,https://static.rain.bh/icons/currencies/BAL.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Mithril,mith,https://static.rain.bh/icons/currencies/MITH.png,8,5,https://etherscan.io/tx/,35,0.01,-1000000
-Metal,mtl,https://static.rain.bh/icons/currencies/MTL.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-OMG Network,omg,https://static.rain.bh/icons/currencies/OMG.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Storj,storj,https://static.rain.bh/icons/currencies/STORJ.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Alpha Finance Lab,alpha,https://static.rain.bh/icons/currencies/ALPHA.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-Dent,dent,https://static.rain.bh/icons/currencies/DENT.png,8,6,https://etherscan.io/tx/,35,0.01,-1000000
-Hxro,hxro,https://static.rain.bh/icons/currencies/HXRO.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-Loom Network,loom,https://static.rain.bh/icons/currencies/LOOM.png,8,5,https://etherscan.io/tx/,35,0.01,-1000000
-Orbs,orbs,https://static.rain.bh/icons/currencies/ORBS.png,8,5,https://etherscan.io/tx/,35,0.01,-1000000
-PAX Gold,paxg,https://static.rain.bh/icons/currencies/PAXG.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Smooth Love Potion,slp,https://static.rain.bh/icons/currencies/SLP.png,0,5,https://etherscan.io/tx/,35,0.01,-1000000
-Wrapped Bitcoin,wbtc,https://static.rain.bh/icons/currencies/WBTC.png,8,2,https://etherscan.io/tx/,35,0.001,-1000000
-DFI.Money,yfii,https://static.rain.bh/icons/currencies/YFII.png,8,2,https://etherscan.io/tx/,35,0.001,-1000000
-Tezos,xtz,https://static.rain.bh/icons/currencies/XTZ.png,6,2,https://granadanet.tzkt.io/,60,0.01,-1000000
-Elrond,egld,https://static.rain.bh/icons/currencies/EGLD.png,8,2,https://etherscan.io/tx/,35,0.01,-1000000
-Oxygen,oxy,https://static.rain.bh/icons/currencies/OXY.png,6,3,https://etherscan.io/tx/,35,0.01,-1000000
-Pundi X (New),pundix,https://static.rain.bh/icons/currencies/PUNDIX.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-Reef,reef,https://static.rain.bh/icons/currencies/REEF.png,8,6,https://etherscan.io/tx/,35,0.01,-1000000
-SKALE Network,skl,https://static.rain.bh/icons/currencies/SKL.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-Decentraland,mana,https://static.rain.bh/icons/currencies/MANA.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
-Pax Dollar,usdp,https://static.rain.bh/icons/currencies/USDP.png,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+name,code,precision,fiat_precision,block_explorer,minimum_confirmations,minimum_amount,exchange_warning_minimum
+Bitcoin,btc,8,2,https://live.blockcypher.com/btc/tx/,3,0.0005,-1000000
+Ethereum,eth,8,2,https://etherscan.io/tx/,35,0.005,-1000000
+Litecoin,ltc,8,2,https://live.blockcypher.com/ltc/tx/,6,0.1,-1000000
+Tether,usdt,6,3,https://etherscan.io/tx/,35,0.01,-1000000
+XRP,xrp,6,4,https://xrpcharts.ripple.com/#/transactions/,1,20,-1000000
+Algorand,algo,6,4,https://algoexplorer.io/tx/,1,0.01,-1000000
+Compound,comp,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Shiba Inu,shib,8,8,https://etherscan.io/tx/,35,0.01,-1000000
+Avalanche,avax,6,2,https://snowtrace.io/tx/,35,0.01,-1000000
+Hedera,hbar,8,4,https://dragonglass.me/transactions/,60,0.01,-1000000
+TRON,trx,6,5,https://tronscan.org/#/transaction/,20,0.01,-1000000
+Stellar,xlm,7,4,https://stellarchain.io/tx/,1,0.01,-1000000
+Bitcoin Cash,bch,8,2,https://www.blockchain.com/bch/tx/,3,0.01,-1000000
+EOS,eos,4,2,https://bloks.io/transaction/,1,0.01,-1000000
+Chainlink,link,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Uniswap,uni,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+USD Coin,usdc,6,3,https://etherscan.io/tx/,35,0.01,-1000000
+Polygon,matic,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Axie Infinity,axs,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+SushiSwap,sushi,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+yearn.finance,yfi,8,2,https://etherscan.io/tx/,35,0.001,-1000000
+Dai,dai,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Enjin Coin,enj,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+The Sandbox,sand,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Maker,mkr,8,2,https://etherscan.io/tx/,35,0.001,-1000000
+Curve DAO Token,crv,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Fantom,ftm,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Badger DAO,badger,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+1inch Network,1inch,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Perpetual Protocol,perp,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Cream Finance,cream,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+SXP,sxp,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Basic Attention Token,bat,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Chiliz,chz,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+0x,zrx,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Synthetix,snx,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Loopring,lrc,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Aave,aave,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Bancor,bnt,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+The Graph,grt,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Binance USD,busd,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+TrueUSD,tusd,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+FTX Token,ftt,5,2,https://etherscan.io/tx/,35,0.01,-1000000
+Cronos,cro,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+UNUS SED LEO,leo,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Huobi Token,ht,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Celsius,cel,4,2,https://etherscan.io/tx/,35,0.01,-1000000
+Audius,audio,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Band Protocol,band,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+DODO,dodo,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Kyber Network Crystal v2,knc,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Balancer,bal,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Mithril,mith,8,5,https://etherscan.io/tx/,35,0.01,-1000000
+Metal,mtl,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+OMG Network,omg,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Storj,storj,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Alpha Finance Lab,alpha,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Dent,dent,8,6,https://etherscan.io/tx/,35,0.01,-1000000
+Hxro,hxro,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Loom Network,loom,8,5,https://etherscan.io/tx/,35,0.01,-1000000
+Orbs,orbs,8,5,https://etherscan.io/tx/,35,0.01,-1000000
+PAX Gold,paxg,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Wrapped Bitcoin,wbtc,8,2,https://etherscan.io/tx/,35,0.001,-1000000
+DFI.Money,yfii,8,2,https://etherscan.io/tx/,35,0.001,-1000000
+Tezos,xtz,6,2,https://granadanet.tzkt.io/,60,0.01,-1000000
+Elrond,egld,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Oxygen,oxy,6,3,https://etherscan.io/tx/,35,0.01,-1000000
+Pundi X (New),pundix,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Reef,reef,8,6,https://etherscan.io/tx/,35,0.01,-1000000
+SKALE Network,skl,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Decentraland,mana,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Pax Dollar,pax,8,4,https://etherscan.io/tx/,35,0.01,-1000000
+Smooth Love Potion,slp,0,5,https://etherscan.io/tx/,35,0.01,-1000000
+Ape Coin,ape,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Keeper DAO,rook,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+TrueFi,tru,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Gala,gala,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Civic,cvc,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Terra USD,ust,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+Nexo,nexo,8,2,https://etherscan.io/tx/,35,0.01,-1000000
+dYdX,dydx,8,2,https://etherscan.io/tx/,35,0.01,-1000000

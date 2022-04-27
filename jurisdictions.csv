@@ -1,8 +1,8 @@
-name
-bhr
-uae
-sau
-omn
-kwt
-tur
-pk
+name,static_base_url
+tur,https://static.rainturk.com/
+bhr,https://static.rain.bh/
+uae,https://static.rain.bh/
+sau,https://static.rain.bh/
+omn,https://static.rain.bh/
+kwt,https://static.rain.bh/
+pk,https://static.rain.bh/
